@@ -6,6 +6,9 @@
 /// @group functions
 ////
 
+// Fix the deprecation warning
+$-zf-bp-value: null;
+
 // Patch to fix issue #12080
 $-zf-pb-value: null;
 
